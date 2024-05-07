@@ -7,48 +7,80 @@
 
 <h1 class="text-center pt-5 px-5">@ViewData["Title"]</h1>
 
-<h2 class="text-center p-5">If you require any help or have any queries, please use the contact form below</h2>
-
 <div class="container text-center">
     <div class="col-12">
-        <h3>Why choose our services?</h3>
+        <h2 class="text-center py-5">Use this page to buy any required parts for MOT service</h2>
     </div>
-    <div class="d-flex flex-column flex-sm-row flex-lg-row flex-xl-row justify-content-between py-5 gap-5 align-content-center mot-service-homepage">
-        <img class="car-part-image" src="css/disc-brakes.jpeg" alt="disc brakes">
-        <div>
-            <h2>Our Advantages</h2>
-            <p>We offer a full range of garage services for vehicle owners in Nowy Sącz.
-                Our specialists know how to take care of any problem, whether it's a passenger car or a mid-size truck or SUV.</p>
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col mx-5 pb-5">
+                <img class="car-part-image" src="~/css/brakes1.jpeg" alt="disc brakes">
+                <div>
+                    <h4 class="text-start py-3 m-0">Disc brake</h4>
+                    <p class="text-start mb-0">Disc brake for a car. Add if brakes test failed during MOT service and brakes are required to be repaired.</p>
+                    <div class="quantity-elem d-flex justify-content-around">
+                        <h5 class="quantity text-start pt-1 pb-3">Quantity</h5>
+                        <div class="quantity-btn d-flex justify-content-between">
+                            <button class="quantity-btn-style">+</button>
+                            <p class="quantity-btn-style-p">1</p>
+                            <button class="quantity-btn-style">-</button>
+                        </div>
+                    </div>
+                    <button class="add-btn">Add</button>
+                </div>
+            </div>
+            <div class="col mx-5 pb-5">
+                <img class="car-part-image" src="~/css/tyres1.png" alt="tyres service">
+                <div>
+                    <h4 class="text-start py-3 m-0">Tyre</h4>
+                    <p class="text-start">High quality tyre for a car. Add if tyres condition test failed during MOT service and brakes are required to be repaired.</p>
+                    <div class="quantity-elem d-flex justify-content-around">
+                        <h5 class="quantity text-start pt-1 pb-3">Quantity</h5>
+                        <div class="quantity-btn d-flex justify-content-between">
+                            <button class="quantity-btn-style">+</button>
+                            <p class="quantity-btn-style-p">1</p>
+                            <button class="quantity-btn-style">-</button>
+                        </div>
+                    </div>
+                    <button class="add-btn">Add</button>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="d-flex flex-column flex-sm-row flex-lg-row flex-xl-row justify-content-between py-5 gap-5 align-content-center tyres-service-homepage pb-5">
-        <img class="car-part-image" src="css/tyres.png" alt="tyres service">
-        <div>
-            <ul>
-                <li>Over 900 five-star reviews</li>
-                <li>Free diagnosis</li>
-                <li>2 years warranty</li>
-                <li>15 years of experience</li>
-            </ul>
-        </div>
-    </div>
-    <div class="d-flex flex-column flex-sm-row flex-lg-row flex-xl-row justify-content-between py-5 gap-5 align-content-center mot-service-homepage">
-        <img class="car-part-image" src="css/fuel-filter.jpeg" alt="fuel filter">
-        <div>
-            <h2>Our Advantages</h2>
-            <p>We offer a full range of garage services for vehicle owners in Nowy Sącz.
-                Our specialists know how to take care of any problem, whether it's a passenger car or a mid-size truck or SUV.</p>
-        </div>
-    </div>
-    <div class="d-flex flex-column flex-sm-row flex-lg-row flex-xl-row justify-content-between py-5 gap-5 align-content-center tyres-service-homepage pb-5">
-        <img class="car-part-image" src="css/gettyimages-adding-engine-oil.jpeg" alt="engine oil">
-        <div>
-            <ul>
-                <li>Over 900 five-star reviews</li>
-                <li>Free diagnosis</li>
-                <li>2 years warranty</li>
-                <li>15 years of experience</li>
-            </ul>
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col mx-5 pb-5">
+                <img class="car-part-image" src="~/css/fuelFilter1.jpeg" alt="fuel filter">
+                <div>
+                    <h4 class="text-start py-3 m-0">Fuel filter</h4>
+                    <p class="text-start">Fuel filter for a car. Add if fuel filters test failed during MOT service and brakes are required to be repaired.</p>
+                    <div class="quantity-elem d-flex justify-content-around">
+                        <h5 class="quantity text-start pt-1 pb-3">Quantity</h5>
+                        <div class="quantity-btn d-flex justify-content-between">
+                            <button class="quantity-btn-style">+</button>
+                            <p class="quantity-btn-style-p">1</p>
+                            <button class="quantity-btn-style">-</button>
+                        </div>
+                    </div>
+                    <button class="add-btn">Add</button>
+                </div>
+            </div>
+            <div class="col mx-5 pb-5">
+                <img class="car-part-image" src="~/css/oilFilter1.jpeg" alt="engine oil">
+                <div>
+                    <h4 class="text-start py-3 m-0">Oil filter</h4>
+                    <p class="text-start">Oil filter for a car. Add if oil filters test failed during MOT service and brakes are required to be repaired.</p>
+                    <div class="quantity-elem d-flex justify-content-around">
+                        <h5 class="quantity text-start pt-1 pb-3">Quantity</h5>
+                        <div class="quantity-btn d-flex justify-content-between">
+                            <button class="quantity-btn-style">+</button>
+                            <p class="quantity-btn-style-p">1</p>
+                            <button class="quantity-btn-style">-</button>
+                        </div>
+                    </div>
+                    <button class="add-btn">Add</button>
+                </div>
+            </div>
         </div>
     </div>
 </div>

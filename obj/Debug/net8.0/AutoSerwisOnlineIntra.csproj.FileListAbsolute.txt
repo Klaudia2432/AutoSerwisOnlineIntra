@@ -28,3 +28,4 @@
 /Users/klaudia/Desktop/AutoSerwisOnlineIntra/obj/Debug/net8.0/AutoSerwisOnlineIntra.pdb
 /Users/klaudia/Desktop/AutoSerwisOnlineIntra/obj/Debug/net8.0/AutoSerwisOnlineIntra.genruntimeconfig.cache
 /Users/klaudia/Desktop/AutoSerwisOnlineIntra/obj/Debug/net8.0/ref/AutoSerwisOnlineIntra.dll
+/Users/klaudia/Desktop/AutoSerwisOnlineIntra/obj/Debug/net8.0/AutoSerwisOnlineIntra.sourcelink.json

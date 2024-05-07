@@ -5,20 +5,20 @@
       "PackagePath": "staticwebassets/AutoSerwisOnlineIntra.bundle.scp.css"
     },
     {
-      "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/disc-brakes.jpeg",
-      "PackagePath": "staticwebassets/css/disc-brakes.jpeg"
+      "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/brakes1.jpeg",
+      "PackagePath": "staticwebassets/css/brakes1.jpeg"
     },
     {
-      "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/fuel-filter.jpeg",
-      "PackagePath": "staticwebassets/css/fuel-filter.jpeg"
-    },
-    {
-      "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/gettyimages-adding-engine-oil.jpeg",
-      "PackagePath": "staticwebassets/css/gettyimages-adding-engine-oil.jpeg"
+      "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/fuelFilter1.jpeg",
+      "PackagePath": "staticwebassets/css/fuelFilter1.jpeg"
     },
     {
       "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/mot.png",
       "PackagePath": "staticwebassets/css/mot.png"
+    },
+    {
+      "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/oilFilter1.jpeg",
+      "PackagePath": "staticwebassets/css/oilFilter1.jpeg"
     },
     {
       "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/site.css",
@@ -29,8 +29,8 @@
       "PackagePath": "staticwebassets/css/tools-3.jpeg"
     },
     {
-      "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/tyres.png",
-      "PackagePath": "staticwebassets/css/tyres.png"
+      "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/tyres1.png",
+      "PackagePath": "staticwebassets/css/tyres1.png"
     },
     {
       "Id": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/favicon.ico",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoSerwisOnlineIntra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef347b12b1295316a84e6ee6bf4f8828a1436192")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoSerwisOnlineIntra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoSerwisOnlineIntra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

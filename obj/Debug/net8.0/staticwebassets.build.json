@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CA5ST1H3v+nK7fqpMOPlAZBCp76Q3kJ9Y76a7tnJWDE=",
+  "Hash": "P94/RPBxEiAbpaQ8gP4qNAqhN0UqxVpUOZqkrx9upUY=",
   "Source": "AutoSerwisOnlineIntra",
   "BasePath": "_content/AutoSerwisOnlineIntra",
   "Mode": "Default",
@@ -55,12 +55,12 @@
       "OriginalItemSpec": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/obj/Debug/net8.0/scopedcss/projectbundle/AutoSerwisOnlineIntra.bundle.scp.css"
     },
     {
-      "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/disc-brakes.jpeg",
+      "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/brakes1.jpeg",
       "SourceId": "AutoSerwisOnlineIntra",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/",
       "BasePath": "_content/AutoSerwisOnlineIntra",
-      "RelativePath": "css/disc-brakes.jpeg",
+      "RelativePath": "css/brakes1.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,15 +71,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/disc-brakes.jpeg"
+      "OriginalItemSpec": "wwwroot/css/brakes1.jpeg"
     },
     {
-      "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/fuel-filter.jpeg",
+      "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/fuelFilter1.jpeg",
       "SourceId": "AutoSerwisOnlineIntra",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/",
       "BasePath": "_content/AutoSerwisOnlineIntra",
-      "RelativePath": "css/fuel-filter.jpeg",
+      "RelativePath": "css/fuelFilter1.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,26 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/fuel-filter.jpeg"
-    },
-    {
-      "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/gettyimages-adding-engine-oil.jpeg",
-      "SourceId": "AutoSerwisOnlineIntra",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/",
-      "BasePath": "_content/AutoSerwisOnlineIntra",
-      "RelativePath": "css/gettyimages-adding-engine-oil.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/gettyimages-adding-engine-oil.jpeg"
+      "OriginalItemSpec": "wwwroot/css/fuelFilter1.jpeg"
     },
     {
       "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/mot.png",
@@ -129,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/mot.png"
+    },
+    {
+      "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/oilFilter1.jpeg",
+      "SourceId": "AutoSerwisOnlineIntra",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/",
+      "BasePath": "_content/AutoSerwisOnlineIntra",
+      "RelativePath": "css/oilFilter1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/oilFilter1.jpeg"
     },
     {
       "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/site.css",
@@ -169,12 +169,12 @@
       "OriginalItemSpec": "wwwroot/css/tools-3.jpeg"
     },
     {
-      "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/tyres.png",
+      "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/css/tyres1.png",
       "SourceId": "AutoSerwisOnlineIntra",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/",
       "BasePath": "_content/AutoSerwisOnlineIntra",
-      "RelativePath": "css/tyres.png",
+      "RelativePath": "css/tyres1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/tyres.png"
+      "OriginalItemSpec": "wwwroot/css/tyres1.png"
     },
     {
       "Identity": "/Users/klaudia/Desktop/AutoSerwisOnlineIntra/wwwroot/favicon.ico",

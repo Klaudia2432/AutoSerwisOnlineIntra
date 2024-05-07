@@ -7,33 +7,33 @@
 
 <h1 class="text-center pt-5 px-5">@ViewData["Title"]</h1>
 
-<div class="service-record d-flex flex-column flex-sm-row flex-lg-row flex-xl-row justify-content-evenly p-3 align-content-center tyres-service-homepage">
-    <div><p class="service-record-detail pt-2 m-0">Service: Dacia Sandero MOT</p></div>
-    <div><p class="service-record-detail pt-2 m-0">Date and time: 22/01/23 10:00</p></div>
+<div class="service-record d-flex flex-column flex-sm-row flex-lg-row flex-xl-row justify-content-between p-3 tyres-service-homepage">
+    <div class="service-record-title"><p class="service-record-detail pt-2 m-0">Service: Dacia Sandero MOT</p></div>
+    <div class="service-record-title"><p class="service-record-detail pt-2 m-0">Date and time: 22/01/23 10:00</p></div>
     <div class="service-buttons justify-content-end p-1">
         <button class="action-button"><a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="EditService">Edit details</a></button>
-        <button class="action-button"><a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="CarParts">Buy parts</a></button>
+        <button class="action-button" style="padding: 0 .5rem;"><a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="CarParts">Buy parts</a></button>
         <button id="arrow-button">⌄</button>
     </div>
 </div>
 <div class="service-details-expanded-1">
-    <p class="service-detail-record justify-content-start mb-0 p1 mx-xl-4 mx-xxl-5">Registration number: KR12345</p>
+    <p class="service-detail-record justify-content-start mb-0 p1">Registration number: KR12345</p>
 </div>
 <div class="service-details-expanded-2">
-    <p class="service-detail-record justify-content-start mb-0 mx-xl-4 mx-xxl-5">Customer full name: Test Tester</p>
+    <p class="service-detail-record justify-content-start mb-0">Customer full name: Test Tester</p>
 </div>
 <div class="service-details-expanded-1">
-    <p class="service-detail-record justify-content-start mb-0 mx-xl-4 mx-xxl-5">Email address: test.tester@gmail.com</p>
+    <p class="service-detail-record justify-content-start mb-0">Email address: test.tester@gmail.com</p>
 </div>
 <div class="service-details-expanded-2">
-    <p class="service-detail-record justify-content-start mb-0 mx-xl-4 mx-xxl-5">Phone number: +48 123 345 678</p>
+    <p class="service-detail-record justify-content-start mb-0">Phone number: +48 123 345 678</p>
 </div>
 <div class="service-details-expanded-1">
-    <p class="service-detail-record justify-content-start mb-0 mx-xl-4 mx-xxl-5">Price: 210zl</p>
+    <p class="service-detail-record justify-content-start mb-0">Price: 210zl</p>
 </div>
 <div class="service-details-expanded-2">
-    <p class="service-detail-record justify-content-start mb-0 mx-xl-4 mx-xxl-5">Part1: 50zl  (price added to total)</p>
+    <p class="service-detail-record justify-content-start mb-0">Part1: 50zl  (price added to total)</p>
 </div>
 <div class="service-details-expanded-total">
-    <p class="service-detail-record justify-content-start mb-0 mx-xl-4 mx-xxl-5">Total: 250zl</p>
+    <p class="service-detail-record justify-content-start mb-0">Total: 250zl</p>
 </div>
