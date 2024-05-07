@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSerwisOnlineIntra", "AutoSerwisOnlineIntra.csproj", "{A1F0FABE-6319-49E3-80A5-24752300235B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F0FABE-6319-49E3-80A5-24752300235B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F0FABE-6319-49E3-80A5-24752300235B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F0FABE-6319-49E3-80A5-24752300235B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F0FABE-6319-49E3-80A5-24752300235B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
